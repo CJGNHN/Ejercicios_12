@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicios_1.2</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtapellidos">Apellidos</string>
+    <string name="intedad">Edad</string>
+    <string name="txtcorreo">Correo</string>
+    <string name="btnenviar">Enviar</string>
+    <string name="btnregresar">Regresar</string>
+</resources>
